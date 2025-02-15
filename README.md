@@ -127,7 +127,13 @@ This AI-powered no-code test automation platform enables seamless automation for
 - **Version Control for Test Cases** – Tracks changes across different app versions.  
 - **Role-Based Access Control** – Assign permissions to team members.  
 - **Collaboration Tools** – Commenting, tagging, and test case sharing.  
-- **Continuous Testing Workflow** – Syncs with Agile and DevOps pipelines.  
+- **Continuous Testing Workflow** – Syncs with Agile and DevOps pipelines.
+
+Release overview:
+<img width="1512" alt="releases" src="https://github.com/user-attachments/assets/eb6fc448-6039-4cf9-8717-52a952b54c9e" />
+
+Teams managment overview:
+<img width="1512" alt="teams" src="https://github.com/user-attachments/assets/5b3d5773-af10-4c67-8cc0-8e7e3805b9aa" />
 
 ---
 
@@ -135,7 +141,10 @@ This AI-powered no-code test automation platform enables seamless automation for
 - **Works with GitHub, Jenkins, Azure DevOps, Bitbucket** – Enables automated testing in CI/CD environments.  
 - **Trigger Tests on Code Changes** – Runs tests whenever a commit is made.  
 - **Automated Regression Testing** – Ensures existing functionalities remain intact.  
-- **Parallel Execution Support** – Speeds up testing by running multiple tests simultaneously.  
+- **Parallel Execution Support** – Speeds up testing by running multiple tests simultaneously.
+- **Easy integration with** - Easy integration with device cloude providers, e.g. Browserstack, Lambda Test, etc.
+
+<img width="1512" alt="tool_integration" src="https://github.com/user-attachments/assets/d0270cac-f1d6-43ed-b80c-bc89c52cb9fb" />
 
 ---
 
@@ -143,7 +152,9 @@ This AI-powered no-code test automation platform enables seamless automation for
 - **Auto-Logs Bugs to Issue Trackers** – Defects are automatically reported in Jira, YouTrack, etc.  
 - **Real-Time Slack Alerts** – Get instant notifications on test failures.  
 - **Customizable Webhook Support** – Integrate with internal tools and workflows.  
-- **Bi-Directional Syncing** – Updates test case status based on bug resolution.  
+- **Bi-Directional Syncing** – Updates test case status based on bug resolution.
+
+<img width="1510" alt="tool_integration_2" src="https://github.com/user-attachments/assets/d418b442-4872-44cc-aef0-de83d5f2e258" />
 
 ---
 
@@ -152,6 +163,8 @@ This AI-powered no-code test automation platform enables seamless automation for
 - **Eliminates Local Hardware Dependencies** – No need for in-house test environments.  
 - **Scalable Execution Capabilities** – Run thousands of test cases in parallel.  
 - **Supports Multi-Geo Testing** – Validate app performance in different regions.  
+
+<img width="1512" alt="tool_integration" src="https://github.com/user-attachments/assets/d0270cac-f1d6-43ed-b80c-bc89c52cb9fb" />
 
 ---
 
@@ -168,8 +181,6 @@ This AI-powered no-code test automation platform enables seamless automation for
 - **Customizable Action Libraries** – Define specific business rules for automation.  
 - **Scriptless Test Execution** – Reduce maintenance effort with reusable workflows.  
 - **Enterprise-Grade Flexibility** – Adapt automation to complex enterprise needs.
-
-Here’s a professional description of the feature you mentioned:  
 
 ---
 
