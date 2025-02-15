@@ -169,9 +169,39 @@ This AI-powered no-code test automation platform enables seamless automation for
 - **Scriptless Test Execution** – Reduce maintenance effort with reusable workflows.  
 - **Enterprise-Grade Flexibility** – Adapt automation to complex enterprise needs.
 
+Here’s a professional description of the feature you mentioned:  
+
+---
+
+### **Test Suite Execution Overview**  
+
+The following image represents a structured **test suite execution dashboard**, showcasing:  
+
+- **List of Designed Suites** – A detailed view of test suites configured for execution.  
+- **Platform & Device Mapping** – Specifies the targeted platform (Web, Mobile, Real Devices, Cloud, etc.) and associated devices.  
+- **Parallel Execution with Threads** – Displays the number of threads allocated for efficient test execution, optimizing speed and performance.  
+- **Journey-Based Execution** – Supports combining multiple test journeys within a single suite for comprehensive end-to-end testing.  
+- **Flexible & Scalable Execution** – Users can customize test suite configurations based on project requirements.  
+
 <img width="1512" alt="list_journey" src="https://github.com/user-attachments/assets/6d8f7b79-ef13-41db-a91f-5d02b42736f1" />
 
+This setup ensures seamless and efficient test execution while maximizing coverage across different environments.
+
+---
+
+### **Designed Journey Overview**  
+
+The following image represents a structured **Journey Execution Dashboard**, showcasing:  
+
+- **List of Designed Journeys** – A detailed view of test journeys created by combining multiple test actions.  
+- **Action Sequencing** – Each journey consists of a logical flow of automated steps, ensuring smooth execution.  
+- **Reusable Components** – Modular approach allows actions to be reused across different test journeys.  
+- **End-to-End Test Scenarios** – Enables comprehensive validation by simulating real user interactions.  
+- **Customizable Execution** – Users can modify, extend, or optimize journeys as per testing requirements.  
+
 <img width="1512" alt="list_suites" src="https://github.com/user-attachments/assets/dfb79c17-4775-4b17-8e45-3ce4d62bebf4" />
+
+This approach streamlines automation by enabling flexible and scalable test execution while maintaining efficiency.
 
 ---
 
