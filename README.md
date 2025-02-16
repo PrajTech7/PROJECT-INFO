@@ -99,6 +99,15 @@ This AI-powered no-code test automation platform enables seamless automation for
 - **Eliminates Redundant Scripting** – No need to write separate scripts for different platforms.  
 - **Cloud & Local Execution Support** – Choose between local runs or cloud-based execution.  
 
+In following image, we have designed a suite for android devices and we select multiple android device from our device pool and thread count is 10.
+<img width="1512" alt="create_suite_android" src="https://github.com/user-attachments/assets/53739415-a271-4535-af06-e5e26fa05752" />
+
+In following image, we have designed a suite for iOS devices and we select multiple iOS device from our device pool and thread count is 10.
+<img width="1512" alt="create_suite_ios" src="https://github.com/user-attachments/assets/421b8ab4-0266-47a5-be2e-c90ad3a85c1c" />
+
+Here in in following image you can see designed suites are listed below android and iOS.
+<img width="1512" alt="lists_suites" src="https://github.com/user-attachments/assets/f4b23bc2-df8e-4fa3-8c75-9ed640e23c01" />
+
 ---
 
 ### ✅ **Targeted Testing on Specific Devices**  
@@ -106,6 +115,8 @@ This AI-powered no-code test automation platform enables seamless automation for
 - **Cloud Device Lab Integration** – Access a wide range of real devices via BrowserStack, LambdaTest, etc.  
 - **Optimized Performance Testing** – Simulate real-world device conditions.  
 - **Emulator & Simulator Support** – Test on virtual devices before real device validation.  
+
+<img width="1512" alt="device_pool" src="https://github.com/user-attachments/assets/2ff99973-9bf2-4189-b78b-2b35a5a06efa" />
 
 ---
 
