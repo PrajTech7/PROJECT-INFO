@@ -218,5 +218,6 @@ This approach streamlines automation by enabling flexible and scalable test exec
 
 📞 Get in Touch  
 For a demo or partnership inquiries, contact:
-📧 prajwalbhale007@gmail.com
+📧 prajwalbhale007@gmail.com/
+📧 mohitgupta1176@gmail.com
 📞 +91 7558215007
