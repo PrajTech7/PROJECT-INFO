@@ -117,6 +117,23 @@ This AI-powered no-code test automation platform enables seamless automation for
 
 ---
 
+### ✅ **Advanced Screening Actions Execution**
+
+In the following image, we see a collection of advanced screening actions being executed together. This feature allows users to validate multiple UI elements in a single automated test execution. 
+
+#### **Key Capabilities:**
+- **Bulk Validation of UI Components** – Ensures all buttons, input fields, dropdowns, and other elements are tested simultaneously.
+- **Form & Field Verification** – Checks for required fields, character limits, valid inputs, and error messages in one go.
+- **Automated Accessibility Checks** – Identifies missing alt texts, color contrast issues, and other UI accessibility concerns.
+- **Error Detection & Logging** – Captures any inconsistencies, missing elements, or unexpected UI changes with screenshots and logs.
+- **AI-Driven Optimization** – Automatically adapts to dynamic UI modifications, reducing false positives in testing.
+
+This feature **significantly reduces testing effort and time** by allowing bulk UI validation while maintaining accuracy and consistency across different test runs. 🚀
+
+<img width="1512" alt="screening_page" src="https://github.com/user-attachments/assets/22f0c40e-577c-4ae3-be5b-e76e71db9622" />
+
+---
+
 ### ✅ **Detailed Reporting & Insights**  
 - **Comprehensive Test Reports** – Logs all test steps, screenshots, and results.  
 - **Error & Performance Analytics** – Pinpoints test failures and slow performance areas.  
@@ -184,10 +201,14 @@ Teams managment overview:
 - **Scriptless Test Execution** – Reduce maintenance effort with reusable workflows.  
 - **Enterprise-Grade Flexibility** – Adapt automation to complex enterprise needs.
 
+---
+
 ### ✅ Sentry Integration
 - Real-time error tracking and monitoring for automated test executions.
 - Captures and logs crashes, slow responses, and performance issues during test runs.
 - Provides deep insights with stack traces and event history to diagnose failures efficiently.
+
+---
 
 ### ✅ Patrol Integration
 - Enables advanced mobile automation testing with real-device interaction.
