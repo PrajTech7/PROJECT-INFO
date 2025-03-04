@@ -1,7 +1,7 @@
 
-## 🚀 Overview # AI-Powered No-Code Test Automation Platform >>
+## 🚀 Overview # AI-Powered No-Code Test Automation Platform: TestEase >>
 
-This AI-powered no-code test automation platform enables seamless automation for web, mobile, and cloud applications. It reduces test maintenance, accelerates automation, and enhances QA efficiency.
+This AI-powered no-code test automation platform enables seamless automation for web, mobile & desktop applications. It reduces test maintenance, accelerates automation, and enhances QA efficiency.
 
 ## 🎯 Key Features  
 - ✅ No-Code & Easy to Use
